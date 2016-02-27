@@ -1,4 +1,4 @@
-# indicoio_project
+# artist_lyrics_predictor
 HampHack project using Indico library to train a neural network.
 You need an account and key from Inidico and their python API in order to use this library.
 You should be able to train the network by simply calling python train_hamphack_collection.py
